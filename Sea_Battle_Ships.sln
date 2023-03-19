@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sea_Battle_Ships", "Sea_Battle_Ships\Sea_Battle_Ships.vcxproj", "{787D1301-25F2-4A5E-89F3-7BB384D5950D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787D1301-25F2-4A5E-89F3-7BB384D5950D}.Debug|x64.ActiveCfg = Debug|x64
+		{787D1301-25F2-4A5E-89F3-7BB384D5950D}.Debug|x64.Build.0 = Debug|x64
+		{787D1301-25F2-4A5E-89F3-7BB384D5950D}.Debug|x86.ActiveCfg = Debug|Win32
+		{787D1301-25F2-4A5E-89F3-7BB384D5950D}.Debug|x86.Build.0 = Debug|Win32
+		{787D1301-25F2-4A5E-89F3-7BB384D5950D}.Release|x64.ActiveCfg = Release|x64
+		{787D1301-25F2-4A5E-89F3-7BB384D5950D}.Release|x64.Build.0 = Release|x64
+		{787D1301-25F2-4A5E-89F3-7BB384D5950D}.Release|x86.ActiveCfg = Release|Win32
+		{787D1301-25F2-4A5E-89F3-7BB384D5950D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4944ACA0-D8F1-4CDD-A746-93B6668E4A6A}
+	EndGlobalSection
+EndGlobal
